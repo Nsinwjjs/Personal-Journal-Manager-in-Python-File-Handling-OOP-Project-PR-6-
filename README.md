@@ -1,0 +1,2 @@
+# Personal-Journal-Manager-in-Python-File-Handling-OOP-Project-PR-6-
+This project is built to practically understand Python File Handling and OOP concepts. It is a Personal Journal Manager where users can store their daily thoughts or notes in a text file (journal.txt). The project focuses on real-life use cases such as read, write, append, search, and delete operations with proper exception handling.
